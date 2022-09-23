@@ -1,1 +1,3 @@
-# quantum-projects
+# Quantum Projects
+
+- Divide and Conquer
